@@ -65,7 +65,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet Amusebox'
+    banner='figlet JOYMALL_VIP'
     numbers=[]
     while(y):
         clear()
@@ -130,7 +130,7 @@ if(expirydate>today):
             period=360
             hero()
     else:
-        banner='figlet Amusebox'
+        banner='figlet JOYMALL_VIP'
         system(banner)
         #print(f"{yellow}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
@@ -156,7 +156,7 @@ else:
     test="SD3"
     night="N13"
     nextday="DSDSXS"
-    banner='figlet Amusebox'
+    banner='figlet JOYMALL_VIP'
     rava=0
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
@@ -176,8 +176,8 @@ else:
     print("Your hack has expired--- Please contact")
     print(" on telegram ----LOVE IS LIFE 💘 for activating")
     print("     Plan Amount --    Total limit " )
-    print(" 1.  1000 INR -------  1 Day (30 Games")
-    print(" 2.  2500 INR -------  3 Days(90 Games")
+    print(" 1.  2000 INR -------  1 Day (30 Games")
+    print(" 2.  3000 INR -------  3 Days(90 Games")
     print(" 2.  5000 INR ------- 7 Days(210 Games")
     print("*---------*----------*-------------*----------*")
     print("If you need any discount contact me")
@@ -221,7 +221,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram LOVE IS LIFE 💘")
         elif(bhai==nextday):
             clear()
-            banner='figlet Amusebox'
+            banner='figlet JOYMALL_VIP'
             system(banner)
             print("----------Your play time-----------")
             print("30th-1st feb 2021, 02:30 PM- 03:00 PM")
@@ -250,7 +250,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram LOVE IS LIFE 💘")
         else:
             clear()
-            banner='figlet Amusebox'
+            banner='figlet JOYMALL_VIP'
             system(banner)
             print("Incorrect Activation Code :")
 
